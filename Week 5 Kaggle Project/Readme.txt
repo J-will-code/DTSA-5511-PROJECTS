@@ -1,4 +1,4 @@
-**Overview**
+Overview
 
 We will use a CycleGANs architecture in this project to convert photos to Monet-style format. 
 The dataset is made up of 7,038 photographs and 300 Monet paintings.
